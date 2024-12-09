@@ -1,6 +1,6 @@
-<!DOCTYPE html
+<!DOCTYPE dita
   SYSTEM "about:legacy-compat">
-<html lang="en">
+<dita lang="en">
    <head>
       <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
       <meta charset="UTF-8">
@@ -24,4 +24,4 @@
          </ul>
       </nav>
    </body>
-</html>
+</dita>
